@@ -27,7 +27,7 @@ Temperature graph
 
 ![temperature](https://github.com/andyparkers/Weather-Station/blob/main/Images/IMG_20220729_201356.jpg)
 
-humidity graph
+Humidity graph
 
 ![humidity](https://github.com/andyparkers/Weather-Station/blob/main/Images/IMG_20220729_201409.jpg)
 
