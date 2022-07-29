@@ -1,5 +1,5 @@
 # Weather station project based on Arduino Nano and MH-Z19B
-This is a simple weather station which can provide you with latest data about temperature, moisture, atmospheric pressure and CO2 level. Keeping the last one at optimal rate is essential for being productive during the day, because exceeding some rate may make you feel tired and reduce your cognitive abilities.
+This is a simple weather station which can provide you with latest data about temperature, humidity, atmospheric pressure and CO2 level. Keeping the last one at optimal rate is essential for being productive during the day, because exceeding some rate may make you feel tired and reduce your cognitive abilities.
 # Requirements
 This is what you need to accomplish this project:
 - 2004 I2C Display
@@ -27,9 +27,9 @@ Temperature graph
 
 ![temperature](https://github.com/andyparkers/Weather-Station/blob/main/Images/IMG_20220729_201356.jpg)
 
-Moisture graph
+humidity graph
 
-![moisture](https://github.com/andyparkers/Weather-Station/blob/main/Images/IMG_20220729_201409.jpg)
+![humidity](https://github.com/andyparkers/Weather-Station/blob/main/Images/IMG_20220729_201409.jpg)
 
 Atmospheric pressure graph
 
