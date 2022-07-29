@@ -8,7 +8,7 @@ const int BUTTON_PIN = 5;
 const int TIMER_UPDATE_PERIOD = 20000;  // ms
 
                                         // 8 pin is VCC for Display; A0 - RX, A1 - TX for MH-Z19B;
-Adafruit_BME280 bme;                    // SCL - I2C clock (A5), SDA - I2C data (A4), same wires with WeatherStation
+Adafruit_BME280 bme;                    // SCL - I2C clock (A5), SDA - I2C data (A4), same wires with Display
 LiquidCrystal_I2C lcd(0x27, 20, 4);     // SCL - I2C clock (A5), SDA - I2C data (A4)
 SoftwareSerial mySerial(0, 1);
 
